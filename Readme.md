@@ -7,7 +7,7 @@ This App allows you to enter Pokemons you caught into a "Pokedex", which is our 
 This will automatically generate a ***caughtDatum*** for the entry.
 
 ### Instructions for running
-Run ```.gradlew bootRun``` in root of the project to run the SpringBoot App.  
+Run ```./gradlew bootRun``` in root of the project to run the SpringBoot App.  
 Integrate with the Application via SwaggerUI available at ```http://localhost:8080/swagger-ui/```  
 -OR-  
 Send HTTP-Requests with Tools like **Postman**.
